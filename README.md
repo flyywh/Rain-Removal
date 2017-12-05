@@ -9,7 +9,7 @@
 
 * D. Y. Chen, C. C. Chen, and L. W. Kang, “Visual Depth Guided Color Image Rain Streaks Removal Using Sparse Coding,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 24, no. 8, pp. 1430–1455, Aug. 2014.
 
-* J. Chen and L. P. Chau, “A Rain Pixel Recovery Algorithm for Videos With Highly Dynamic Scenes,” IEEE Transactions on Image Processing, vol. 23, no. 3, pp. 1097–1104, Mar. 2014.
+* J. Chen and L. P. Chau, “A Rain Pixel Recovery Algorithm for Videos With Highly Dynamic Scenes,” IEEE Transactions on Image Processing, vol. 23, no. 3, pp. 1097–1104, Mar. 2014. [[PDF]](http://www.ntu.edu.sg/home/elpchau/pdf/Dynamic%20Scene%20Rain%20Removal.pdf)
 
 * Y. L. Chen and C. T. Hsu, “A Generalized Low-Rank Appearance Model for Spatio-temporally Correlated Rain Streaks,” in 2013 IEEE International Conference on Computer Vision, 2013, pp. 1968–1975.
 
