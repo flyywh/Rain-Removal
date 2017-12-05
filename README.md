@@ -15,7 +15,7 @@
 
 * D. Eigen, D. Krishnan, and R. Fergus, “Restoring an Image Taken through a Window Covered with Dirt or Rain,” in 2013 IEEE International Conference on Computer Vision, 2013, pp. 633–640.
 
-* X. Fu, J. Huang, X. Ding, Y. Liao, and J. Paisley, “Clearing the Skies: A Deep Network Architecture for Single-Image Rain Removal,” IEEE Transactions on Image Processing, vol. 26, no. 6, pp. 2944–2956, Jun. 2017.
+* X. Fu, J. Huang, X. Ding, Y. Liao, and J. Paisley, “Clearing the Skies: A Deep Network Architecture for Single-Image Rain Removal,” IEEE Transactions on Image Processing, vol. 26, no. 6, pp. 2944–2956, Jun. 2017. [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7893758)
 
 * C. Huang, X. Ding, C. Fang, and D. Wen, “Robust Image Restoration via Adaptive Low-Rank Approximation and Joint Kernel Regression,” IEEE Transactions on Image Processing, vol. 23, no. 12, pp. 5284–5297, Dec. 2014.
 
