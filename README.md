@@ -1,7 +1,8 @@
 # Rain Removal
 
 #### Rain Removal
- 
+
+### Before 2017
 
 * W. Yang, R. T. Tan, J. Feng, J. Liu, Z. Guo, and S. Yan, “Deep Joint Rain Detection and Removal from a Single Image,” in 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1685–1694. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)
 
@@ -12,6 +13,8 @@
 * J. Chen and L. P. Chau, “A Rain Pixel Recovery Algorithm for Videos With Highly Dynamic Scenes,” IEEE Transactions on Image Processing, vol. 23, no. 3, pp. 1097–1104, Mar. 2014. [[PDF]](http://www.ntu.edu.sg/home/elpchau/pdf/Dynamic%20Scene%20Rain%20Removal.pdf)
 
 * Y. L. Chen and C. T. Hsu, “A Generalized Low-Rank Appearance Model for Spatio-temporally Correlated Rain Streaks,” in 2013 IEEE International Conference on Computer Vision, 2013, pp. 1968–1975.
+
+### 2017
 
 * D. Eigen, D. Krishnan, and R. Fergus, “Restoring an Image Taken through a Window Covered with Dirt or Rain,” in 2013 IEEE International Conference on Computer Vision, 2013, pp. 633–640.
 
@@ -24,6 +27,8 @@
 * T. X. Jiang, T. Z. Huang, X. L. Zhao, L. J. Deng, and Y. Wang, “A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors,” in 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2818–2827.
 
 * L. W. Kang, C. W. Lin, and Y. H. Fu, “Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition,” IEEE Transactions on Image Processing, vol. 21, no. 4, pp. 1742–1755, Apr. 2012.
+
+### 2018
 
 * J. H. Kim, J. Y. Sim, and C. S. Kim, “Stereo video deraining and desnowing based on spatiotemporal frame warping,” in 2014 IEEE International Conference on Image Processing (ICIP), 2014, pp. 5432–5436.
 
