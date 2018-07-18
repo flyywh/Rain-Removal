@@ -1,4 +1,4 @@
-# This is a collection of works that are realted to image and video rain removal
+# A collection of works on image and video rain removal
 
 ** The list is maintained by Dejia Xu and Wenhan Yang.**
 
