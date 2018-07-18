@@ -1,6 +1,8 @@
-# Rain Removal
+# This is a collection of works that are realted to image and video rain removal
 
-#### Rain Removal
+** The list is maintained by Dejia Xu and Wenhan Yang.**
+
+#### Image and Video Rain Removal
 
 ### Before 2017
 
