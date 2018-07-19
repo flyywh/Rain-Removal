@@ -85,3 +85,6 @@
 * K. Park, S. Yu, J.Jeong, "A contrast restoration method for effective single image rain removal algorithm", [ieeexplore](https://ieeexplore.ieee.org/document/8369644/)
 
 * J. Pu, X. Chen, L. Zhang. "Removing rain based on a cycle generative adversarial network", [ieeexplore](https://ieeexplore.ieee.org/document/8397790/)
+
+* S. Du, Y. Liu, M. Ye, Z. Xu, J. Li, J. Liu, "Single image deraining via decorrelating the rain streaks and background scene in gradient domain"， in Pattern Recognition Volume 79, July 2018, Pages 303-317, [link](https://www.sciencedirect.com/science/article/pii/S0031320318300700)
+* D. Ren, W. Zuo, D. Zhang, L. Zhang, M. Yang, "Simultaneous Fidelity and Regularization Learning for Image Restoration", [arxiv](https://arxiv.org/abs/1804.04522)
