@@ -82,3 +82,6 @@
 
 * J. Liu, W. Yang, S. Yang, Z. Guo, "Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos", in [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)
 
+* K. Park, S. Yu, J.Jeong, "A contrast restoration method for effective single image rain removal algorithm", [ieeexplore](https://ieeexplore.ieee.org/document/8369644/)
+
+* J. Pu, X. Chen, L. Zhang. "Removing rain based on a cycle generative adversarial network", [ieeexplore](https://ieeexplore.ieee.org/document/8397790/)
