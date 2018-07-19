@@ -60,7 +60,7 @@
 
 * L. Shen, Z. Yue, Q. Chen, F. Feng, J. Ma, "Deep joint removal from single images", [arxiv](https://arxiv.org/abs/1801.06769)
 
-* H. Zhang, V. Patel, "Density-aware Single Image De-raining using a Multi-stream Dense Network", [arxiv](https://arxiv.org/abs/1802.07412), in [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf）
+* H. Zhang, V. Patel, "Density-aware Single Image De-raining using a Multi-stream Dense Network", [arxiv](https://arxiv.org/abs/1802.07412), in [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf)
 
 * T. Jiang, T. Huang, X. Zhao, L. Deng, Y. Wang, "FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors", [arxiv](https://arxiv.org/abs/1803.07487)
 
