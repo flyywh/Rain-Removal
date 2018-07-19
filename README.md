@@ -52,4 +52,22 @@
 
 ### 2018
 
+* I. Kligvasser, T. Shaham, T. Michaeli, "xUnit: Learning a Spatial Activation Function for Efficient Image Restoration", [arxiv](https://arxiv.org/abs/1711.06445)
 
+* L. Shen, Z. Yue, Q. Chen, F. Feng, J. Ma, "Deep joint removal from single images", [arxiv](https://arxiv.org/abs/1801.06769)
+
+* H. Zhang, V. Patel, "Density-aware Single Image De-raining using a Multi-stream Dense Network", [arxiv](https://arxiv.org/abs/1802.07412), in CVPR'18
+
+* T. Jiang, T. Huang, X. Zhao, L. Deng, Y. Wang, "FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors", [arxiv](https://arxiv.org/abs/1803.07487)
+
+* J. Chen, C. Tan, J. Hou, L. Chau, H. Li, "Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework", [arxiv](https://arxiv.org/abs/1803.10433)
+
+* S. LI, W. Ren, J. Zhang, J. Yu, X. Guo, "Fast Single Image Rain Removal via a Deep Decomposition-Composition Network", [arxiv](https://arxiv.org/abs/1804.02688)
+
+* Z. Fan, H. Wu, X. Fu, Y. Hunag, X. Ding, "Residual-Guide Feature Fusion Network for Single Image Deraining", [arxiv](https://arxiv.org/abs/1804.07493)
+
+* J. Chen, C. Tan, J. Hou, L. Chau, H. Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain", [arxiv](https://arxiv.org/abs/1804.09555) 
+
+* X. Fu, B. Liang, Y. Huang, X. Ding, J. Paisley, "Lightweight Pyramid Networks for Image Deraining". [arxiv](https://arxiv.org/abs/1805.06173)
+
+* X. Li, J. Wu, Z. Lin, H. Liu, H. Zha, "Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining", [arxiv](https://arxiv.org/abs/1807.05698), in ECCV'18
