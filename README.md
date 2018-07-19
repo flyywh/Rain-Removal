@@ -49,6 +49,10 @@
 
 * Y. Wang, S. Liu, C. Chen, and B. Zeng, “A Hierarchical Approach for Rain or Snow Removing in a Single Color Image,” IEEE Transactions on Image Processing, vol. 26, no. 8, pp. 3936–3950, Aug. 2017.
 
+* W. Wei, L. Yi, Q. Xie, Q. Zhao, D. Meng, Z. Xu, "Should We Encode Rain Streaks in Video as Deterministic or Stochastic?", in [ICCV'17](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wei_Should_We_Encode_ICCV_2017_paper.pdf)
+
+* L. Zhu, C. Fu, D. Lischinski, P. Heng, "Joint Bi-Layer Optimization for Single-Image Rain Streak Removal", in [ICCV'17](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.pdf)
+
 
 ### 2018
 
@@ -56,11 +60,11 @@
 
 * L. Shen, Z. Yue, Q. Chen, F. Feng, J. Ma, "Deep joint removal from single images", [arxiv](https://arxiv.org/abs/1801.06769)
 
-* H. Zhang, V. Patel, "Density-aware Single Image De-raining using a Multi-stream Dense Network", [arxiv](https://arxiv.org/abs/1802.07412), in CVPR'18
+* H. Zhang, V. Patel, "Density-aware Single Image De-raining using a Multi-stream Dense Network", [arxiv](https://arxiv.org/abs/1802.07412), in [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf）
 
 * T. Jiang, T. Huang, X. Zhao, L. Deng, Y. Wang, "FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors", [arxiv](https://arxiv.org/abs/1803.07487)
 
-* J. Chen, C. Tan, J. Hou, L. Chau, H. Li, "Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework", [arxiv](https://arxiv.org/abs/1803.10433)
+* J. Chen, C. Tan, J. Hou, L. Chau, H. Li, "Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework", [arxiv](https://arxiv.org/abs/1803.10433), in [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Robust_Video_content_cvpr_2018_paper.pdf)
 
 * S. LI, W. Ren, J. Zhang, J. Yu, X. Guo, "Fast Single Image Rain Removal via a Deep Decomposition-Composition Network", [arxiv](https://arxiv.org/abs/1804.02688)
 
@@ -71,3 +75,10 @@
 * X. Fu, B. Liang, Y. Huang, X. Ding, J. Paisley, "Lightweight Pyramid Networks for Image Deraining". [arxiv](https://arxiv.org/abs/1805.06173)
 
 * X. Li, J. Wu, Z. Lin, H. Liu, H. Zha, "Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining", [arxiv](https://arxiv.org/abs/1807.05698), in ECCV'18
+
+* R. Qian, R. Tan, W. Yang, J. Su, J. Liu, "Attentive Generative Adversarial Network for Raindrop Removal From a Single Image", in [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)
+
+* M. Li, Q. Xie, Q. Zhao, W. Wei, S. Gu, J. Tao, D. Meng, "Video Rain Streak Removal by Multiscale Convolutional Sparse Coding", in [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf)
+
+* J. Liu, W. Yang, S. Yang, Z. Guo, "Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos", in [CVPR'18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)
+
