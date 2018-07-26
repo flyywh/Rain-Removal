@@ -41,17 +41,17 @@
 
 * X. Fu, J. Huang, X. Ding, Y. Liao, and J. Paisley, “Clearing the Skies: A Deep Network Architecture for Single-Image Rain Removal,” IEEE Transactions on Image Processing, vol. 26, no. 6, pp. 2944–2956, Jun. 2017. [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7893758)
 
-* T. X. Jiang, T. Z. Huang, X. L. Zhao, L. J. Deng, and Y. Wang, “A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors,” in 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2818–2827. [[PDF]](http://ieeexplore.ieee.org/document/8099784/)
+* T. X. Jiang, T. Z. Huang, X. L. Zhao, L. J. Deng, and Y. Wang, “A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors,” in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2818–2827. [[PDF]](http://ieeexplore.ieee.org/document/8099784/)
 
 * Y. Li, R. T. Tan, X. Guo, J. Lu, and M. S. Brown, “Single Image Rain Streak Decomposition Using Layer Priors,” IEEE Transactions on Image Processing, vol. 26, no. 8, pp. 3874–3885, Aug. 2017. [[PDF]](https://ieeexplore.ieee.org/document/7934436/)
 
-* W. Ren, J. Tian, Z. Han, A. Chan, and Y. Tang, “Video Desnowing and Deraining Based on Matrix Decomposition,” in 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2838–2847. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Video_Desnowing_and_CVPR_2017_paper.pdf)
+* W. Ren, J. Tian, Z. Han, A. Chan, and Y. Tang, “Video Desnowing and Deraining Based on Matrix Decomposition,” in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2838–2847. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Video_Desnowing_and_CVPR_2017_paper.pdf)
 
 * Y. Wang, S. Liu, C. Chen, and B. Zeng, “A Hierarchical Approach for Rain or Snow Removing in a Single Color Image,” IEEE Transactions on Image Processing, vol. 26, no. 8, pp. 3936–3950, Aug. 2017. [[PDF]](https://ieeexplore.ieee.org/document/7934435/)
 
-* W. Wei, L. Yi, Q. Xie, Q. Zhao, D. Meng, Z. Xu, "Should We Encode Rain Streaks in Video as Deterministic or Stochastic?", in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2516-2525. 2017. [[PDF]](https://ieeexplore.ieee.org/document/8237537/)
+* W. Wei, L. Yi, Q. Xie, Q. Zhao, D. Meng, Z. Xu, "Should We Encode Rain Streaks in Video as Deterministic or Stochastic?", in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2516-2525. [[PDF]](https://ieeexplore.ieee.org/document/8237537/)
 
-* L. Zhu, C. Fu, D. Lischinski, P. Heng, "Joint Bi-Layer Optimization for Single-Image Rain Streak Removal", in Proceedings of the IEEE international conference on computer vision, pp. 2526-2534. 2017. [[PDF]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.pdf)
+* L. Zhu, C. Fu, D. Lischinski, P. Heng, "Joint Bi-Layer Optimization for Single-Image Rain Streak Removal", in Proceedings of the IEEE international conference on computer vision (CVPR), 2017, pp. 2526-2534. [[PDF]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.pdf)
 
 
 ### 2018
