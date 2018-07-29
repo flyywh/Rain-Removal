@@ -60,7 +60,7 @@
 
 * R. Qian, R. Tan, W. Yang, J. Su, J. Liu, "Attentive Generative Adversarial Network for Raindrop Removal From a Single Image", in IEEE Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, 2018.[[PDF]](http://www.icst.pku.edu.cn/F/course/icb/Pub%20Files/2018/qr_cvpr18.pdf)
 
-* I. Kligvasser, T. Shaham, T. Michaeli, "xUnit: Learning a Spatial Activation Function for Efficient Image Restoration", in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.[[PDF]](https://arxiv.org/pdf/1711.06445.pdf)
+* I. Kligvasser, T. Shaham, T. Michaeli, "xUnit: Learning a Spatial Activation Function for Efficient Image Restoration", in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.[[PDF]](https://arxiv.org/pdf/1711.06445.pdf)
 
 * L. Shen, Z. Yue, Q. Chen, F. Feng, J. Ma, "Deep joint rain and haze removal from single images", ArXiv 2018.[[PDF]](https://arxiv.org/pdf/1801.06769.pdf)
 
@@ -76,10 +76,10 @@
 
 * X. Fu, B. Liang, Y. Huang, X. Ding, J. Paisley, "Lightweight Pyramid Networks for Image Deraining". ArXiv 2018.[[PDF]](https://arxiv.org/pdf/1805.06173.pdf)
 
-* X. Li, J. Wu, Z. Lin, H. Liu, H. Zha, "Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining", in European Conference on Computer Vision (ECCV), Oct. 2016.[[PDF]](https://export.arxiv.org/pdf/1807.05698)
+* X. Li, J. Wu, Z. Lin, H. Liu, H. Zha, "Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining", in European Conference on Computer Vision (ECCV), Oct. 2018.[[PDF]](https://export.arxiv.org/pdf/1807.05698)
 
 * M. Li, Q. Xie, Q. Zhao, W. Wei, S. Gu, J. Tao, D. Meng, "Video Rain Streak Removal by Multiscale Convolutional Sparse Coding", in IEEE Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, 2018.[[PDF]]()
 
-* S. Du, Y. Liu, M. Ye, Z. Xu, J. Li, J. Liu, "Single image deraining via decorrelating the rain streaks and background scene in gradient domain"， in Pattern Recognition Volume 79, July 2018, Pages 303-317.
+* S. Du, Y. Liu, M. Ye, Z. Xu, J. Li, J. Liu, "Single image deraining via decorrelating the rain streaks and background scene in gradient domain"， Pattern Recognition (PR), Vol.79, pp.303-317, July 2018.[[PDF]]()
 
-* D. Ren, W. Zuo, D. Zhang, L. Zhang, M. Yang, "Simultaneous Fidelity and Regularization Learning for Image Restoration", arXiv preprint arXiv:1804.04522 (2018).
+* D. Ren, W. Zuo, D. Zhang, L. Zhang, M. Yang, "Simultaneous Fidelity and Regularization Learning for Image Restoration", Arxiv 2018.[[PDF]](https://arxiv.org/pdf/1804.04522.pdf)
