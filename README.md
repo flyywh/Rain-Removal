@@ -56,7 +56,7 @@
 
 ### 2018
 
-* I. Kligvasser, T. Shaham, T. Michaeli, "xUnit: Learning a Spatial Activation Function for Efficient Image Restoration", arXiv preprint arXiv:1711.06445 (2017). (in CVPR'18)
+* I. Kligvasser, T. Shaham, T. Michaeli, "xUnit: Learning a Spatial Activation Function for Efficient Image Restoration", in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.[[PDF]](https://arxiv.org/pdf/1711.06445.pdf)
 
 * L. Shen, Z. Yue, Q. Chen, F. Feng, J. Ma, "Deep joint removal from single images", arXiv preprint arXiv:1801.06769 (2018).
 
