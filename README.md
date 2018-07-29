@@ -60,7 +60,7 @@
 
 * R. Qian, R. Tan, W. Yang, J. Su, J. Liu, "Attentive Generative Adversarial Network for Raindrop Removal From a Single Image", in IEEE Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, 2018. [[PDF]](http://www.icst.pku.edu.cn/F/course/icb/Pub%20Files/2018/qr_cvpr18.pdf)
 
-* I. Kligvasser, T. Shaham, T. Michaeli, "xUnit: Learning a Spatial Activation Function for Efficient Image Restoration", in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [[PDF]](https://arxiv.org/pdf/1711.06445.pdf)
+* I. Kligvasser, T. Shaham, T. Michaeli, "xUnit: Learning a Spatial Activation Function for Efficient Image Restoration", in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kligvasser_xUnit_Learning_a_CVPR_2018_paper.pdf)
 
 * L. Shen, Z. Yue, Q. Chen, F. Feng, J. Ma, "Deep joint rain and haze removal from single images", ArXiv 2018. [[PDF]](https://arxiv.org/pdf/1801.06769.pdf)
 
@@ -78,7 +78,7 @@
 
 * X. Li, J. Wu, Z. Lin, H. Liu, H. Zha, "Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining", in European Conference on Computer Vision (ECCV), Oct. 2018. [[PDF]](https://export.arxiv.org/pdf/1807.05698)
 
-* M. Li, Q. Xie, Q. Zhao, W. Wei, S. Gu, J. Tao, D. Meng, "Video Rain Streak Removal by Multiscale Convolutional Sparse Coding", in IEEE Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, 2018. [[PDF]]()
+* M. Li, Q. Xie, Q. Zhao, W. Wei, S. Gu, J. Tao, D. Meng, "Video Rain Streak Removal by Multiscale Convolutional Sparse Coding", in IEEE Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, 2018. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf)
 
 * S. Du, Y. Liu, M. Ye, Z. Xu, J. Li, J. Liu, "Single image deraining via decorrelating the rain streaks and background scene in gradient domain"， Pattern Recognition (PR), Vol.79, pp.303-317, July 2018. [[PDF]]()
 
