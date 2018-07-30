@@ -6,8 +6,6 @@
 
 ### Before 2017
 
-* W. Yang, R. T. Tan, J. Feng, J. Liu, Z. Guo, and S. Yan, “Deep Joint Rain Detection and Removal from a Single Image,” in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1685–1694. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)
-
 * X. Zhang, M.-T. Sun, L. Fang, and O. C. Au, “Joint Denoising and demosaicking of noisy CFA images based on inter-color correlation,” in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014, pp. 5784–5788. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6854712)
 
 * D. Y. Chen, C. C. Chen, and L. W. Kang, “Visual Depth Guided Color Image Rain Streaks Removal Using Sparse Coding,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 24, no. 8, pp. 1430–1455, Aug. 2014. [[PDF]](https://ieeexplore.ieee.org/document/6748866/)
@@ -38,6 +36,8 @@
 
 
 ### 2017
+
+* W. Yang, R. T. Tan, J. Feng, J. Liu, Z. Guo, and S. Yan, “Deep Joint Rain Detection and Removal from a Single Image,” in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1685–1694. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)
 
 * X. Fu, J. Huang, X. Ding, Y. Liao, and J. Paisley, “Clearing the Skies: A Deep Network Architecture for Single-Image Rain Removal,” IEEE Transactions on Image Processing, vol. 26, no. 6, pp. 2944–2956, Jun. 2017. [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7893758)
 
