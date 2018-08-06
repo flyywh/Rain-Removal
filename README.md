@@ -83,3 +83,5 @@
 * S. Du, Y. Liu, M. Ye, Z. Xu, J. Li, J. Liu, "Single image deraining via decorrelating the rain streaks and background scene in gradient domain"， Pattern Recognition (PR), Vol.79, pp.303-317, July 2018. [[PDF]]()
 
 * D. Ren, W. Zuo, D. Zhang, L. Zhang, M. Yang, "Simultaneous Fidelity and Regularization Learning for Image Restoration", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1804.04522.pdf)
+
+* Wei Wei, Deyu Meng, Qian Zhao and Zongben Xu, "Semi-supervised CNN for Single Image Rain Removal", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1807.11078.pdf)
