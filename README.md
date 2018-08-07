@@ -86,4 +86,4 @@
 
 * Wei Wei, Deyu Meng, Qian Zhao and Zongben Xu, "Semi-supervised CNN for Single Image Rain Removal", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1807.11078.pdf)
 
-* Guanbin Li, Xiang He, Wei Zhang, Huiyou Chang, Le Dong, Liang Lin, "Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining", ACMMM 2018. [[PDF]](https://arxiv.org/pdf/1808.01491.pdf)
+* Guanbin Li, Xiang He, Wei Zhang, Huiyou Chang, Le Dong, Liang Lin, "Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining", ACM Multimedia 2018. [[PDF]](https://arxiv.org/pdf/1808.01491.pdf)
