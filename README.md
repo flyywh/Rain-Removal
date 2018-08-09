@@ -87,3 +87,5 @@
 * Wei Wei, Deyu Meng, Qian Zhao and Zongben Xu, "Semi-supervised CNN for Single Image Rain Removal", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1807.11078.pdf)
 
 * Guanbin Li, Xiang He, Wei Zhang, Huiyou Chang, Le Dong, Liang Lin, "Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining", ACM Multimedia (ACM MM) 2018. [[PDF]](https://arxiv.org/pdf/1808.01491.pdf)
+
+* Li, Ruoteng, Robby T. Tan, and Loong-Fah Cheong. "Robust Optical Flow Estimation in Rainy Scenes.",  in European Conference on Computer Vision (ECCV), Oct. 2018. [[PDF]](https://export.arxiv.org/pdf/1704.05239)
