@@ -87,3 +87,7 @@
 * Wei Wei, Deyu Meng, Qian Zhao and Zongben Xu, "Semi-supervised CNN for Single Image Rain Removal", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1807.11078.pdf)
 
 * Guanbin Li, Xiang He, Wei Zhang, Huiyou Chang, Le Dong, Liang Lin, "Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining", ACM Multimedia (ACM MM) 2018. [[PDF]](https://arxiv.org/pdf/1808.01491.pdf)
+
+* Jinshan Pan, Yang Liu, Jiangxin Dong, Jiawei Zhang, Jimmy Ren, Jinhui Tang, Yu-Wing Tai and Ming-Hsuan Yang, "Physics-Based Generative Adversarial Models for Image Restoration and Beyond", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1808.00605.pdf)
+
+* Jinshan Pan, Sifei Liu, Deqing Sun, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "Learning Dual Convolutional Neural Networks for Low-Level Vision", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1805.05020.pdf)
