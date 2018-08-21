@@ -80,7 +80,7 @@
 
 * M. Li, Q. Xie, Q. Zhao, W. Wei, S. Gu, J. Tao, D. Meng, "Video Rain Streak Removal by Multiscale Convolutional Sparse Coding", in IEEE Computer Vision and Pattern Recognition (CVPR), Salt Lake City, UT, 2018. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf)
 
-* S. Du, Y. Liu, M. Ye, Z. Xu, J. Li, J. Liu, "Single image deraining via decorrelating the rain streaks and background scene in gradient domain"， Pattern Recognition (PR), Vol.79, pp.303-317, July 2018. [[PDF]]()
+* S. Du, Y. Liu, M. Ye, Z. Xu, J. Li, J. Liu, "Single image deraining via decorrelating the rain streaks and background scene in gradient domain"， Pattern Recognition (PR), Vol.79, pp.303-317, July 2018. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318300700)
 
 * D. Ren, W. Zuo, D. Zhang, L. Zhang, M. Yang, "Simultaneous Fidelity and Regularization Learning for Image Restoration", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1804.04522.pdf)
 
