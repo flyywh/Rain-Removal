@@ -1,6 +1,12 @@
 # A collection of works on image and video rain removal
 
-**The list is maintained by Dejia Xu and Wenhan Yang.**
+**This list is maintained by:**
+
+**Dejia Xu and Wenhan Yang**
+
+**[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu).**
+
+
 
 #### Image and Video Rain Removal
 
