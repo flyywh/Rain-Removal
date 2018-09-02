@@ -93,3 +93,5 @@
 * Jinshan Pan, Yang Liu, Jiangxin Dong, Jiawei Zhang, Jimmy Ren, Jinhui Tang, Yu-Wing Tai and Ming-Hsuan Yang, "Physics-Based Generative Adversarial Models for Image Restoration and Beyond", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1808.00605.pdf)
 
 * Jinshan Pan, Sifei Liu, Deqing Sun, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "Learning Dual Convolutional Neural Networks for Low-Level Vision", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1805.05020.pdf)
+
+* Yetao Wang, Xile Zhao, Taixiang Jiang, Liangjian Deng, Yi Chang, Tingzhu Huang. "Rain Streak Removal for Single Image via Kernel Guided CNN", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1808.08545.pdf)
