@@ -95,3 +95,5 @@
 * Jinshan Pan, Sifei Liu, Deqing Sun, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "Learning Dual Convolutional Neural Networks for Low-Level Vision", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1805.05020.pdf)
 
 * Yetao Wang, Xile Zhao, Taixiang Jiang, Liangjian Deng, Yi Chang, Tingzhu Huang. "Rain Streak Removal for Single Image via Kernel Guided CNN", Arxiv 2018. [[PDF]](https://arxiv.org/pdf/1808.08545.pdf)
+
+* Liang-Jian Deng, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, "A directional global sparse model for single image rain removal", Applied Mathematical Modelling, vol. 59, pp. 662-679, 2018.
